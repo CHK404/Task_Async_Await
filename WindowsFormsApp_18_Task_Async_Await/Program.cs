@@ -16,7 +16,7 @@ namespace WindowsFormsApp_18_Task_Async_Await
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new ex());
         }
     }
 }
